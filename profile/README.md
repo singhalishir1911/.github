@@ -54,13 +54,19 @@ a visualization. **Merged PRs get exclusive 169pi swag. 🎁**
 
 <!-- ENTRIES:START -->
 
-### @169pi — the first brick 🧱
+### @singhalishir1911: The Code Sphere
 
-This wall is yours to build on. Fork the repo, add your entry right here, and
-open a PR — see **[CONTRIBUTING.md](../CONTRIBUTING.md)** for the 5-step guide.
+```text
+   _____
+ /       \
+|  ALPIE  |
+ \       /
+   -----
+```
 
-*What it represents:* the open, collaborative spirit behind everything at 169pi.
-**Contributed by [@169pi](https://github.com/169Pi)**
+*What it represents:* A simple geometric sphere representing the core of Alpie.
+
+**Contributed by [@singhalishir1911](https://github.com/singhalishir1911)**
 
 <!-- ENTRIES:END -->
 
